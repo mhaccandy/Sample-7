@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|c:\\users\\student\\source\\repos\\multipanesample\\multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|solutionrelative:multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|c:\\users\\student\\source\\repos\\multipanesample\\multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|solutionrelative:multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.vb",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb",
+              "RelativeDocumentMoniker": "MultiPaneSample\\frmMain.vb",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb",
+              "RelativeToolTip": "MultiPaneSample\\frmMain.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAASwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-08T17:03:43.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb",
+              "RelativeDocumentMoniker": "MultiPaneSample\\frmMain.vb",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb [Design]",
+              "RelativeToolTip": "MultiPaneSample\\frmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-08T16:54:15.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
