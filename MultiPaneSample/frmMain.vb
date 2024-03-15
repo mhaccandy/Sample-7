@@ -29,4 +29,38 @@ Public Class frmMain
 
     End Function
 
+    Private Sub OpenFile(strType As String)
+        Dim intResult As Integer
+        ofdData.InitialDirectory = Application.StartupPath
+        ofdData.Filter = "All Files (*.*)|*.*|Text Files (*.txt)|*.txt"
+        ofdData.FilterIndex = 2
+        Select Case strType
+            Case "CustomerData"
+                ofdData.Title = "Select Customer Data File"
+            Case "OrderData"
+                ofdData.Title = "Select Order Data File"
+            Case Else
+                MessageBox.Show("Unexpected data type in OpenFile", "Program Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        End Select
+        intResult = ofdData.ShowDialog
+        If intResult = DialogResult.Cancel Then
+            Exit Sub
+        End If
+        strfileName = ofdData.FileName
+        Try
+            ReadInputFile(strfileName, strType)
+        Catch ex As Exception
+            'put error handling here - at least a message boc to dump out the raw error
+        End Try
+    End Sub
+
+    Private Sub ReadInputFile(strFileIn As String, strType As String)
+        Dim fileIn As StreamReader
+        Dim strLineIn As String
+        Dim strFields() As String
+        Dim i As Integer
+        fileIn = New StreamReader(strFileIn)
+        fileIn.ReadLine() 'throw away the first record in the file
+
+    End Sub
 End Class
