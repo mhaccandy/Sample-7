@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|c:\\users\\student\\source\\repos\\multipanesample\\multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|solutionrelative:multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|solutionrelative:multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|c:\\users\\student\\source\\repos\\multipanesample\\multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|solutionrelative:multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|c:\\users\\student\\source\\repos\\mhaccandy\\sample-7\\multipanesample\\sunfrmwelcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|solutionrelative:multipanesample\\sunfrmwelcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|c:\\users\\student\\source\\repos\\mhaccandy\\sample-7\\multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B0EB614-0A06-49FB-BC06-1856AD90E51B}|MultiPaneSample\\MultiPaneSample.vbproj|solutionrelative:multipanesample\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmMain.vb",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb",
-              "RelativeDocumentMoniker": "MultiPaneSample\\frmMain.vb",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb",
-              "RelativeToolTip": "MultiPaneSample\\frmMain.vb",
-              "ViewState": "AQIAAAEAAAAAAAAAAAASwAEAAAAAAAAA",
+              "Title": "sunfrmWelcome.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\MultiPaneSample\\sunfrmWelcome.vb",
+              "RelativeDocumentMoniker": "MultiPaneSample\\sunfrmWelcome.vb",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\MultiPaneSample\\sunfrmWelcome.vb [Design]",
+              "RelativeToolTip": "MultiPaneSample\\sunfrmWelcome.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-08T17:03:43.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T08:39:09.974Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmMain.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\MultiPaneSample\\frmMain.vb",
               "RelativeDocumentMoniker": "MultiPaneSample\\frmMain.vb",
-              "ToolTip": "C:\\Users\\Student\\source\\repos\\MultiPaneSample\\MultiPaneSample\\frmMain.vb [Design]",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\MultiPaneSample\\frmMain.vb [Design]",
               "RelativeToolTip": "MultiPaneSample\\frmMain.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-03-08T16:54:15.549Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.vb",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\MultiPaneSample\\frmMain.vb",
+              "RelativeDocumentMoniker": "MultiPaneSample\\frmMain.vb",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\mhaccandy\\Sample-7\\MultiPaneSample\\frmMain.vb",
+              "RelativeToolTip": "MultiPaneSample\\frmMain.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-08T17:03:43.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

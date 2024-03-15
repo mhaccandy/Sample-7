@@ -1,0 +1,13 @@
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\bin\Debug\MultiPaneSample.exe.config
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\bin\Debug\MultiPaneSample.exe
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\bin\Debug\MultiPaneSample.pdb
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\bin\Debug\MultiPaneSample.xml
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.vbproj.AssemblyReference.cache
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.frmMain.resources
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.Resources.resources
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.sunfrmWelcome.resources
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.vbproj.GenerateResource.cache
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.vbproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.exe
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.xml
+C:\Users\Student\Source\Repos\mhaccandy\Sample-7\MultiPaneSample\obj\Debug\MultiPaneSample.pdb
